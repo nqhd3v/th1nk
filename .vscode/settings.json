@@ -1,0 +1,49 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.prettier": "explicit"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#a3356a",
+    "activityBar.activeBackground": "#a3356a",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#fae4f6",
+    "activityBar.activeBorder": "#ffffff",
+    "activityBarBadge.background": "#fae4f6",
+    "activityBarBadge.foreground": "#a3356a",
+    "titleBar.activeBackground": "#a3356a",
+    "titleBar.inactiveBackground": "#a3356a",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBar.background": "#a3356a",
+    "statusBarItem.hoverBackground": "#626262",
+    "statusBar.foreground": "#ffffff"
+  },
+  "cSpell.words": [
+    "Accu",
+    "antd",
+    "apikey",
+    "cssinjs",
+    "datasource",
+    "firestore",
+    "geoposition",
+    "immer",
+    "issuetype",
+    "Itim",
+    "kanban",
+    "lilita",
+    "logwork",
+    "logworks",
+    "nqhuy",
+    "nunito",
+    "sider",
+    "Siderbar",
+    "tailwindcss",
+    "timetracking",
+    "worklog",
+    "worklogs",
+    "WOWO",
+    "zustand"
+  ]
+}

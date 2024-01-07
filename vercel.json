@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/schedule/weather?lat=10.827716&long=106.733182",
+      "schedule": "0 0 * * *"
+    }
+  ]
+}
